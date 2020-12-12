@@ -1,0 +1,10 @@
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\bin\Debug\B191200350.exe.config
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\bin\Debug\B191200350.exe
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\bin\Debug\B191200350.pdb
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\SepeteEklemeUygulamasi.csprojAssemblyReference.cache
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\B191200350.Form1.resources
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\B191200350.Properties.Resources.resources
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\SepeteEklemeUygulamasi.csproj.GenerateResource.cache
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\SepeteEklemeUygulamasi.csproj.CoreCompileInputs.cache
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\B191200350.exe
+D:\Users\Dell\Desktop\SepeteEklemeUygulamasi\SepeteEklemeUygulamasi\obj\Debug\B191200350.pdb
